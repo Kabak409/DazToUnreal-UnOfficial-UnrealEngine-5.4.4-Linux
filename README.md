@@ -1,4 +1,8 @@
-# Daz To Unreal Bridge
+# GET BINARY AND SOURCE FILES FROM RELEASES
+# FOR TESTING PURPOSES ONLY BROKEN BUILD (kind of)
+https://github.com/Kabak409/DazToUnreal-UnOfficial-UnrealEngine-5.4.4-Linux/releases/tag/TestingPurposesOnly
+
+# Daz To Unreal Bridge 
 A Daz Studio Plugin based on Daz Bridge Library, allowing transfer of Daz Studio characters and
 props to the Unreal Engine.
 
